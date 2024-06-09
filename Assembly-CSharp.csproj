@@ -62,6 +62,8 @@
   <ItemGroup>
     <Compile Include="Assets\Pipemovescript.cs" />
     <Compile Include="Assets\pipespawnerscript.cs" />
+    <Compile Include="Assets\middlepipescript.cs" />
+    <Compile Include="Assets\logicscript.cs" />
     <Compile Include="Assets\bb.cs" />
   </ItemGroup>
   <ItemGroup>
